@@ -9,3 +9,5 @@ Bližnjice iz 2. točke domače naloge:
 - **Ctrl + Shift + P** (wrap with abbreviation)
 - **Ctrl + Shift + →** (označi po eno besedo)
 - **Fn + Shift + →** (označi celo vrstico)
+
+dostop do spletne strani: https://nika-tijana-grabnar.github.io/
